@@ -277,5 +277,14 @@
       <HintPath>..\..\MonsterVariants+\MonsterVariants+\bin\Debug\Zio.dll</HintPath>
     </Reference>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Thunderstore\BalancedObliterateRedux.zip" />
+    <None Include="Thunderstore\manifest.json" />
+    <None Include="Thunderstore\README.md" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Thunderstore\BalancedObliterateRedux.dll" />
+    <Content Include="Thunderstore\icon.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

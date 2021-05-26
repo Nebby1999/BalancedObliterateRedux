@@ -5,15 +5,6 @@ VisualStudioVersion = 16.0.31105.61
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BalancedObliterateRedux", "BalancedObliterateRedux.csproj", "{96F8B29B-6569-4E66-B0A2-28244AF5EC16}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Thunderstore", "Thunderstore", "{4240C173-E6F0-408F-B342-E415502E9769}"
-	ProjectSection(SolutionItems) = preProject
-		..\Thunderstore\BalancedObliterateRedux.dll = ..\Thunderstore\BalancedObliterateRedux.dll
-		..\Thunderstore\BalancedObliterateRedux.zip = ..\Thunderstore\BalancedObliterateRedux.zip
-		..\Thunderstore\icon.png = ..\Thunderstore\icon.png
-		..\Thunderstore\manifest.json = ..\Thunderstore\manifest.json
-		..\Thunderstore\README.md = ..\Thunderstore\README.md
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
