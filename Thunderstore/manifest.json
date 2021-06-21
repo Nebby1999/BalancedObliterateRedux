@@ -1,6 +1,6 @@
 {
   "name": "BalancedObliterateRedux",
-  "version_number": "1.0.1",
+  "version_number": "1.1.0",
   "website_url": "https://github.com/Nebby1999/BalancedObliterateRedux",
   "description": "A Continuation of MisterName's Balanced Obliterate. Obtain Extra Lunar Coins when Obliterating based off the amount of Stages cleared, loops cleared and your Chosen Difficulty. Supports Starstorm's Typhoon and has Fallbacks for custom difficulties.",
   "dependencies": [
